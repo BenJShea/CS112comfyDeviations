@@ -1,3 +1,7 @@
+#Ben Shea
+#Comfy Deviations
+#CS112 Professor Senbel
+
 import math
 
 num1 = -1
